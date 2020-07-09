@@ -2,6 +2,10 @@
 
 **Batalha dos Ângulos** é a prototipação de um jogo educativo sobre ângulos, criado durante a elaboração de um **TCC** para a instituição de ensino **ESUCRI - Escola Superior de Criciúma**.
 
+Feito por:
+[Anderson](https://github.com/andersonmdn) e
+[Talles](https://github.com/talgamom)
+
 ## Tecnologias Utilizadas
 
 - [Vue.js](https://github.com/vuejs/vue)
