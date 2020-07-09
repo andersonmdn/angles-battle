@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server of BattleClass",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --exec yarn run babel-node -- ./src/index.js --allowed-hosts 1.2.3.4",
+    "build": "babel-node ./src/index.js"
+  },
+  "author": "Anderson André",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/node": "^7.8.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.8.4",
+    "nodemon": "^2.0.2"
+  }
+}
