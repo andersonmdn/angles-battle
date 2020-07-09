@@ -12,27 +12,27 @@
 
 ## Campo de Batalha
 
-![Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/CampoDeBatalha.jpg](Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/CampoDeBatalha.jpg)
+![.github/CampoDeBatalha.jpg](.github/CampoDeBatalha.jpg)
 
 ## Caixa de Comando
 
-![Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/Posicionamento_de_Naves.png](Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/Posicionamento_de_Naves.png)
+![.github/Posicionamento_de_Naves.png](.github/Posicionamento_de_Naves.png)
 
 ## Mapa dos **Aliados** e dos **Inimigos**
 
-![Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/MapaAlianoInimigo.png](Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/MapaAlianoInimigo.png)
+![.github/MapaAlianoInimigo.png](.github/MapaAlianoInimigo.png)
 
 ## Mecanismo de Ataque
 
-![Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/MecanismoAtaque.png](Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/MecanismoAtaque.png)
+![.github/MecanismoAtaque.png](.github/MecanismoAtaque.png)
 
 ## Alvos Atingidos
 
-![Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/AlvosAtingidos.png](Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/AlvosAtingidos.png)
+![.github/AlvosAtingidos.png](.github/AlvosAtingidos.png)
 
 ## Mecânica de Jogo
 
-![Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/Blank_Diagram_(1).png](<Batalho%20dos%20ngulos%20c997ae0c70ac4439869603084f76f5f6/Blank_Diagram_(1).png>)
+![.github/Blank_Diagram_(1).png](<.github/Blank_Diagram_(1).png>)
 
 ## Regras e Posicionamento
 
