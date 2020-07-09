@@ -36,11 +36,12 @@
 
 ## Regras e Posicionamento
 
-Imagem,Nave,Quantidade,Descrição,Grupo,Column
-Untitled%20Database%20c9c7b697ce484efa9b43cc18d257c9bd/1.png,Patrulha,5,Posicionadas individualmente. Em qualquer círculo e/ou ângulo.,Não,
-Untitled%20Database%20c9c7b697ce484efa9b43cc18d257c9bd/2.png,Reconhecimento,4,Posicionadas sempre em duplas de acordo com os seguintes critérios:Mesmo círculo ocupando ângulos vizinhosouMesmo ângulo em círculos vizinhos,Sim. Dois grupos com duas naves cada,
-Untitled%20Database%20c9c7b697ce484efa9b43cc18d257c9bd/3.png,Multifunção,3,"Posicionadas sempre em trios, de acordo com os seguintes critérios:Em ângulos vizinhosouEm círculos vizinhos",Sim. Um grupo com três naves,
-Untitled%20Database%20c9c7b697ce484efa9b43cc18d257c9bd/4.png,Combate,4,Posicionadas todas no mesmo círculo com diferenças de 30º em cada posição.,Sim. Um grupo com quatro naves,
+| Imagem                                          | Nave               | Quantidade | Descrição                                                                                                                                     | Grupo                                |
+| ----------------------------------------------- | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| ![.github/Blank_Diagram_(1).png](.github/1.png) | **Patrulha**       | 5          | Posicionadas individualmente. Em qualquer círculo e/ou ângulo.                                                                                | Não                                  |
+| ![.github/Blank_Diagram_(1).png](.github/2.png) | **Reconhecimento** | 4          | Posicionadas sempre em duplas de acordo com os seguintes critérios:Mesmo círculo ocupando ângulos vizinhosouMesmo ângulo em círculos vizinhos | Sim. Dois grupos com duas naves cada |
+| ![.github/Blank_Diagram_(1).png](.github/3.png) | **Multifunção**    | 3          | Posicionadas sempre em trios, de acordo com os seguintes critérios:Em ângulos vizinhos ou Em círculos vizinhos                                | Sim. Um grupo com três naves         |
+| ![.github/Blank_Diagram_(1).png](.github/4.png) | **Combate**        | 4          | Posicionadas todas no mesmo círculo com diferenças de 30º em cada posição.                                                                    | Sim. Um grupo com quatro naves       |
 
 # Commands
 
